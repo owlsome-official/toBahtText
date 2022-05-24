@@ -1,4 +1,4 @@
-module toBahtText
+module github.com/buildingwatsize/toBahtText
 
 go 1.18
 

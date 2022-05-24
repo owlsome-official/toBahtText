@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"toBahtText"
+
+	"github.com/buildingwatsize/toBahtText"
 )
 
 func main() {
