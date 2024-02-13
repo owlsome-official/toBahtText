@@ -4,6 +4,8 @@
 
 ToBahtText เป็น Golang library สำหรับแปลงตัวเลขเป็นคำอ่านภาษาไทย | ToBahtText is a Golang library for converting a number to the words.
 
+<img src="./images/toBahtText.png" height="240" alt="logo" />
+
 ## Table of Contents
 
 - [ToBahtText](#tobahttext)
