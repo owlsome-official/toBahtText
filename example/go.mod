@@ -1,6 +1,6 @@
 module example
 
-go 1.21.7
+go 1.22.1
 
 require github.com/buildingwatsize/toBahtText v0.0.0
 
