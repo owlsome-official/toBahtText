@@ -1,6 +1,6 @@
 # ToBahtText
 
-[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) [![Go Reference](https://pkg.go.dev/badge/github.com/buildingwatsize/toBahtText@v0.1.0.svg)](https://pkg.go.dev/github.com/buildingwatsize/toBahtText@v0.1.0) [![GitHub issues](https://img.shields.io/github/issues/buildingwatsize/toBahtText)](https://github.com/buildingwatsize/toBahtText/issues) [![GitHub forks](https://img.shields.io/github/forks/buildingwatsize/toBahtText)](https://github.com/buildingwatsize/toBahtText/network) [![GitHub stars](https://img.shields.io/github/stars/buildingwatsize/toBahtText)](https://github.com/buildingwatsize/toBahtText/stargazers)
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) [![Go Reference](https://pkg.go.dev/badge/github.com/owlsome-official/toBahtText@v0.1.0.svg)](https://pkg.go.dev/github.com/owlsome-official/toBahtText@v0.1.0) [![GitHub issues](https://img.shields.io/github/issues/owlsome-official/toBahtText)](https://github.com/owlsome-official/toBahtText/issues) [![GitHub forks](https://img.shields.io/github/forks/owlsome-official/toBahtText)](https://github.com/owlsome-official/toBahtText/network) [![GitHub stars](https://img.shields.io/github/stars/owlsome-official/toBahtText)](https://github.com/owlsome-official/toBahtText/stargazers)
 
 ToBahtText เป็น Golang library สำหรับแปลงตัวเลขเป็นคำอ่านภาษาไทย | ToBahtText is a Golang library for converting a number to the words.
 
@@ -18,7 +18,7 @@ ToBahtText เป็น Golang library สำหรับแปลงตัว�
 ## Installation
 
 ```bash
-  go get -u github.com/buildingwatsize/toBahtText
+  go get -u github.com/owlsome-official/toBahtText
 ```
 
 ## Examples

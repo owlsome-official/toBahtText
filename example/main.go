@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/buildingwatsize/toBahtText"
+	"github.com/owlsome-official/toBahtText"
 )
 
 func main() {
