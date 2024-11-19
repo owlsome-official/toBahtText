@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-const MILLION = 6
+const MILLION = 6 // 6-digit
 const ED = "เอ็ด"
 const YEE = "ยี่"
 
