@@ -1,6 +1,6 @@
 module example
 
-go 1.22.1
+go 1.24
 
 require github.com/owlsome-official/toBahtText v0.0.0
 
